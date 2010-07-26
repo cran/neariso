@@ -1,0 +1,5 @@
+useDynLib(neariso)
+export(neariso)
+export(nearisoGetSolution)
+export(nearisoGetBreakpoints)
+
