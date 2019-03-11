@@ -1,4 +1,4 @@
-useDynLib(neariso)
+useDynLib(neariso, .registration=TRUE)
 export(neariso)
 export(nearisoGetSolution)
 export(nearisoGetBreakpoints)

@@ -1,0 +1,9 @@
+003c7a12f914981cad1c86a26a807b4a *DESCRIPTION
+896675298ab5ac96d27b8469c786003d *NAMESPACE
+f186027a55b8cd4741ead0fc4f6ed8e4 *R/NIRGeneralInclude.R
+91a5fccba79f8f8bf0431efdca89fd58 *man/NIR.Rd
+fc19081a6adf98d86d3f7130732ee30b *src/GeneralFunctions.cc
+16d50bc9328557d92553e24810edac9c *src/GeneralFunctions.h
+53e9809288a6998b5470810b9fd48ad1 *src/NIR.cc
+f4e06a5a23c80417ccafbf3510912d70 *src/NIR.h
+c42ae0b9565daebaa9ad270f4f52a340 *src/neariso_init.c
